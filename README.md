@@ -23,8 +23,10 @@ To reach goal { +1(Reward)
 
 ### Graphical Representation
 
+![WhatsApp Image 2023-09-12 at 12 47 28 PM](https://github.com/Archana2003-Jkumar/mdp-representation/assets/93427594/761c50f9-7ac9-4228-b520-b9ddbf5b6b80)
 
 ## PYTHON REPRESENTATION:
+```PYTHON
 P = {
     0 : {
         0 : [(0.23, 0, 0.0, False)],
@@ -63,7 +65,7 @@ P = {
         3 : [(0.76, 0, 0.0, False)]
     }
 }
-    
+```
 ## OUTPUT:
 ![image](https://github.com/Archana2003-Jkumar/mdp-representation/assets/93427594/f6e8a434-0972-4b6d-8aa1-a86c7bdf637a)
 
